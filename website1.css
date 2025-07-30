@@ -155,6 +155,7 @@
 
 .box1 {
     width: 600px;
+    height:500px;
     border-radius: 50px;
     background: linear-gradient(101.09deg, #94C83D -38.55%, #0BB1D3 93.22%);
     color: white;
